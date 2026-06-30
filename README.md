@@ -1,9 +1,5 @@
 # APBD 09 - Database First REST API
 
-## Author
-
-**Małgorzata Antosz s26505**
-
 ## Description
 
 The project was created as part of APBD classes. The goal was to build a REST API using Entity Framework Core in the Database First approach.
